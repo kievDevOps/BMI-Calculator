@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="assets\BMI.png" alt="BMI Calculator">
+  <img src="..\assets\BMI.png" alt="BMI Calculator">
 </p>
 
 ## Como e porquê
