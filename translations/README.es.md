@@ -1,9 +1,11 @@
 <div align="center">
     <h1> Calculadora de IMC </h1>
 </div>
-
+<p align='center'>
+Para probar la calculadora, descargue los archivos y ejecute el índice
+</p>
 <p align="center">
-  <img src="assets\BMI.png" alt="BMI Calculator">
+  <img src="..\assets\BMI.png" alt="BMI Calculator">
 </p>
 
 ## Cómo y por qué
@@ -21,7 +23,7 @@ El IMC es una medida de la delgadez o corpulencia de una persona basada en su es
 Se trata del peso corporal recomendado por la Organización Mundial de la Salud (OMS) basado en los valores del IMC para adultos. Se utiliza tanto para hombres como para mujeres de 20 años o más.
 
 <p align="center">
-  <img src="assets\BMItable.png" alt="BMI Table">
+  <img src="..\assets\BMItable.png" alt="BMI Table">
 </p>
 
 ## Cuadro de IMC para adultos
@@ -29,7 +31,7 @@ Se trata del peso corporal recomendado por la Organización Mundial de la Salud 
 Este es un gráfico de las categorías de IMC basado en los datos de la Organización Mundial de la Salud. Las líneas discontinuas representan subdivisiones dentro de una categorización principal.
 
 <p align="center">
-  <img src="assets\BMIchart.png" alt="BMI Table">
+  <img src="..\assets\BMIchart.png" alt="BMI Table">
 </p>
 
 ## Riesgos asociados al sobrepeso

@@ -2,6 +2,9 @@
     <h1> BMI Calculator </h1>
 </div>
 <p align='center'>
+To test the calculator, download the files and run the index
+</p>
+<p align='center'>
 You can read this page in other languages:
 </p>
 

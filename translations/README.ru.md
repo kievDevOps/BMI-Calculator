@@ -1,9 +1,11 @@
 <div align="center">
     <h1> Калькулятор ИМТ </h1>
 </div>
-
+<p align='center'>
+Чтобы протестировать калькулятор, загрузите файлы и запустите индекс
+</p>
 <p align="center">
-  <img src="assets\BMI.png" alt="BMI Calculator">
+  <img src="..\assets\BMI.png" alt="BMI Calculator">
 </p>
 
 ## Как и почему
@@ -21,7 +23,7 @@
 Это рекомендуемый Всемирной организацией здравоохранения (ВОЗ) вес тела, основанный на показателях ИМТ для взрослых. Он используется как для мужчин, так и для женщин в возрасте 20 лет и старше.
 
 <p align="center">
-  <img src="assets\BMItable.png" alt="BMI Table">
+  <img src="..\assets\BMItable.png" alt="BMI Table">
 </p>
 
 ## Диаграмма ИМТ для взрослых
@@ -29,7 +31,7 @@
 Это график категорий ИМТ, основанный на данных Всемирной организации здравоохранения. Пунктирными линиями обозначены подразделения внутри основной категории.
 
 <p align="center">
-  <img src="assets\BMIchart.png" alt="BMI Table">
+  <img src="..\assets\BMIchart.png" alt="BMI Table">
 </p>
 
 ## Риски, связанные с избыточным весом

@@ -1,9 +1,11 @@
 <div align="center">
     <h1> BMI-Rechner </h1>
 </div>
-
+<p align='center'>
+Um den Rechner zu testen, laden Sie die Dateien herunter und führen Sie den Index aus
+</p>
 <p align="center">
-  <img src="assets\BMI.png" alt="BMI Calculator">
+  <img src="..\assets\BMI.png" alt="BMI Calculator">
 </p>
 
 ## Wie und warum
@@ -21,7 +23,7 @@ Der BMI ist ein Maß für die Magerkeit oder Korpulenz einer Person auf der Grun
 Dies ist das von der Weltgesundheitsorganisation (WHO) empfohlene Körpergewicht auf der Grundlage von BMI-Werten für Erwachsene. Er wird sowohl für Männer als auch für Frauen ab 20 Jahren verwendet.
 
 <p align="center">
-  <img src="assets\BMItable.png" alt="BMI Table">
+  <img src="..\assets\BMItable.png" alt="BMI Table">
 </p>
 
 ## BMI-Diagramm für Erwachsene
@@ -29,7 +31,7 @@ Dies ist das von der Weltgesundheitsorganisation (WHO) empfohlene Körpergewicht
 Dies ist ein Diagramm der BMI-Kategorien auf der Grundlage der Daten der Weltgesundheitsorganisation. Die gestrichelten Linien stellen Unterteilungen innerhalb einer Hauptkategorie dar.
 
 <p align="center">
-  <img src="assets\BMIchart.png" alt="BMI Table">
+  <img src="..\assets\BMIchart.png" alt="BMI Table">
 </p>
 
 ## Risiken im Zusammenhang mit Übergewicht

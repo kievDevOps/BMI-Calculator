@@ -1,7 +1,9 @@
 <div align="center">
     <h1> Calculadora IMC </h1>
 </div>
-
+<p align='center'>
+Para testar a calculadora, faça o download dos arquivos e execute o index
+</p>
 <p align="center">
   <img src="..\assets\BMI.png" alt="BMI Calculator">
 </p>
@@ -21,7 +23,7 @@ O IMC é uma medida da magreza ou corpulência de uma pessoa com base em sua alt
 Esse é o peso corporal recomendado pela Organização Mundial da Saúde (OMS) com base nos valores de IMC para adultos. Ela é usada para homens e mulheres com 20 anos ou mais.
 
 <p align="center">
-  <img src="assets\BMItable.png" alt="BMI Table">
+  <img src="..\assets\BMItable.png" alt="BMI Table">
 </p>
 
 ## Gráfico de IMC para adultos
@@ -29,7 +31,7 @@ Esse é o peso corporal recomendado pela Organização Mundial da Saúde (OMS) c
 Este é um gráfico das categorias de IMC com base nos dados da Organização Mundial da Saúde. As linhas tracejadas representam subdivisões em uma categorização principal.
 
 <p align="center">
-  <img src="assets\BMIchart.png" alt="BMI Table">
+  <img src="..\assets\BMIchart.png" alt="BMI Table">
 </p>
 
 ## Riscos associados ao sobrepeso
