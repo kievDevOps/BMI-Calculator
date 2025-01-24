@@ -70,4 +70,4 @@ En algunos casos, tener un peso inferior al normal puede ser signo de alguna afe
 
 ## Sobre el proyecto
 
-A pesar de ser un proyecto codificado sencillo, cada información se analizó minuciosamente y se contrastó con los datos de la Organización Mundial de la Salud. Gracias por leerlo hasta el final y ¡cuida tu salud! :corazón:
+A pesar de ser un proyecto codificado sencillo, cada información se analizó minuciosamente y se contrastó con los datos de la Organización Mundial de la Salud. Gracias por leerlo hasta el final y ¡cuida tu salud! :heart:
