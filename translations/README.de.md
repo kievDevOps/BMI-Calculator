@@ -70,4 +70,4 @@ In einigen Fällen kann Untergewicht ein Anzeichen für eine Grunderkrankung sei
 
 ## Über das Projekt
 
-Obwohl es sich um ein einfaches kodiertes Projekt handelt, wurden alle Informationen gründlich analysiert und mit den Daten der Weltgesundheitsorganisation abgeglichen. Danke, dass Sie es bis zum Ende gelesen haben, und passen Sie auf Ihre Gesundheit auf! :herz:
+Obwohl es sich um ein einfaches kodiertes Projekt handelt, wurden alle Informationen gründlich analysiert und mit den Daten der Weltgesundheitsorganisation abgeglichen. Danke, dass Sie es bis zum Ende gelesen haben, und passen Sie auf Ihre Gesundheit auf! :heart:
