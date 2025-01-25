@@ -10,8 +10,8 @@ Um den Rechner zu testen, laden Sie die Dateien herunter und führen Sie den Ind
 
 ## Wie und warum
 
-Einfacher BMI-Rechner, erstellt mit HTML5, CSS3 und JavaScript.
-Der Gedankengang hinter der Logik eines BMI-Rechners ist in den Codezeilen als Kommentare in der JavaScript-Datei script.js geschrieben
+Einfacher BMI-Rechner, erstellt mit HTML5, CSS3 und JavaScript. <br />
+Der Gedankengang hinter der Logik eines BMI-Rechners ist in den Codezeilen als Kommentare in der JavaScript-Datei script.js geschrieben <br />
 Mit dem Body-Mass-Index (BMI)-Rechner können Sie den BMI-Wert und den entsprechenden Gewichtsstatus berechnen.
 
 ## BMI-Einführung
@@ -70,4 +70,4 @@ In einigen Fällen kann Untergewicht ein Anzeichen für eine Grunderkrankung sei
 
 ## Über das Projekt
 
-Obwohl es sich um ein einfaches kodiertes Projekt handelt, wurden alle Informationen gründlich analysiert und mit den Daten der Weltgesundheitsorganisation abgeglichen. Danke, dass Sie es bis zum Ende gelesen haben, und passen Sie auf Ihre Gesundheit auf! :heart:
+Obwohl es sich um ein einfaches kodiertes Projekt handelt, wurden alle Informationen gründlich analysiert und mit den Daten der Weltgesundheitsorganisation abgeglichen. <br /> Danke, dass Sie es bis zum Ende gelesen haben, und passen Sie auf Ihre Gesundheit auf! :heart:
