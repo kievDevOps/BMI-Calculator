@@ -23,8 +23,8 @@ You can read this page in other languages:
 
 ## How and why
 
-Simple BMI Calculator made with HTML5, CSS3 and JavaScript.
-The thought process behind the logic of a BMI calculator is written on the lines of code as coments inside the script.js JavaScript file
+Simple BMI Calculator made with HTML5, CSS3 and JavaScript. <br />
+The thought process behind the logic of a BMI calculator is written on the lines of code as coments inside the script.js JavaScript file <br />
 The Body Mass Index (BMI) Calculator can be used to calculate BMI value and corresponding weight status.
 
 ## BMI Introduction
@@ -83,4 +83,4 @@ In some cases, being underweight can be a sign of some underlying condition or d
 
 ## About the project
 
-Despite being a simple coded project, every information was thoroughly analysed and checked with the World Health Organization data. Thank you for reading it to the end and take care of your health! :heart:
+Despite being a simple coded project, every information was thoroughly analysed and checked with the World Health Organization data. <br /> Thank you for reading it to the end and take care of your health! :heart:
