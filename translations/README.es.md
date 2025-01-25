@@ -10,8 +10,8 @@ Para probar la calculadora, descargue los archivos y ejecute el índice
 
 ## Cómo y por qué
 
-Calculadora de IMC simple hecha con HTML5, CSS3 y JavaScript.
-El proceso de pensamiento detrás de la lógica de una calculadora de IMC está escrito en las líneas de código como coments dentro del archivo JavaScript script.js
+Calculadora de IMC simple hecha con HTML5, CSS3 y JavaScript. <br />
+El proceso de pensamiento detrás de la lógica de una calculadora de IMC está escrito en las líneas de código como coments dentro del archivo JavaScript script.js <br />
 La calculadora del Índice de Masa Corporal (IMC) se puede utilizar para calcular el valor del IMC y el estado de peso correspondiente.
 
 ## Introducción al IMC
@@ -70,4 +70,4 @@ En algunos casos, tener un peso inferior al normal puede ser signo de alguna afe
 
 ## Sobre el proyecto
 
-A pesar de ser un proyecto codificado sencillo, cada información se analizó minuciosamente y se contrastó con los datos de la Organización Mundial de la Salud. Gracias por leerlo hasta el final y ¡cuida tu salud! :heart:
+A pesar de ser un proyecto codificado sencillo, cada información se analizó minuciosamente y se contrastó con los datos de la Organización Mundial de la Salud. <br /> Gracias por leerlo hasta el final y ¡cuida tu salud! :heart:
